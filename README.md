@@ -13,10 +13,10 @@
     Uma interface simples para <b>geração de senhas fortes</b>.
     <br/>
     <br/>
-    Desenvolvido com <b>Node.js</b>, <b>HTML</b>, <b>CSS</b> e <b>JavaScript</b>.
+    Desenvolvido com <b>Node.js</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b> e <b>Vite</b>.
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,nodejs,js&theme=light&perline=11" />
+        <img src="https://skillicons.dev/icons?i=html,css,nodejs,js,vite&theme=light&perline=11" />
       </a>
     </p>
   
